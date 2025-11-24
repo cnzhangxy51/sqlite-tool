@@ -59,7 +59,9 @@ cursor 注册示例：
   }
 }
 ```
+![img/img_1.png](img/img_1.png)
 
 使用示例：
 @user-sqlite-delete-tool，帮我删除路径为/Users/XXX/XXX.db，表名为BBB，字段名id为CCC的记录
 
+![img/img.png](img/img.png)
